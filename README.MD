@@ -9,7 +9,10 @@ Just do a git pull to get the recipes. :)
 ### Prerequisites
 
 1. You know how to cook.
-2. You must be patient
+2. You must be patient.
+3. You keep things simple and stupid.
+4. You don't waste food.
+5. You don't share it with your pets if it is unsafe for them.
 
 ```
 Make sure you have root access to the kitchen.
